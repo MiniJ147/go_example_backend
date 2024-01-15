@@ -1,1 +1,1 @@
-go build && rssagg
+go build && go_example_backend

@@ -1,4 +1,4 @@
-module github.com/minij147/rssagg
+module github.com/minij147/go_example_backend
 
 go 1.21.6
 
